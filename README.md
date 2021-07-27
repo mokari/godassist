@@ -1,1 +1,1 @@
-# godassist
+# God assist
